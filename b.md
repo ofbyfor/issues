@@ -1,21 +1,15 @@
 ---
-title: "A"
+title: "B"
 weight: 1
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
 ---
 
-# issue A
+# issue B
 
-a.md
+b.md
 
 # id
 
-a
+b
 
 # Description
 
